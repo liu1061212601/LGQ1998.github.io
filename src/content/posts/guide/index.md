@@ -3,7 +3,7 @@ title: 第一份文档
 published: 2025-04-16
 description: "通过Fuwari的模版搭建个人主页"
 image: "./IMG_4547.JPG"  
-tags: ["Fuwari", "Blogging", "Customization"]
+tags: ["Fuwari", "Blogging", "Customization","如何插入图片"]
 category: 普通文档
 draft: false
 ---
